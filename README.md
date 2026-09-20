@@ -2,30 +2,38 @@
 
 ### IT Technician | Prestige Tech
 
-Jestem technikiem IT i samoukiem z Koszalina. Rozwijam się w kierunku cyberbezpieczeństwa, sieci, serwerów, automatyzacji i AI.
+Jestem samoukiem z Koszalina. Nie skończyłem informatyki, ale przygotowuję się do rozpoczęcia studiów na kierunku IT. Prawdopodobnie nie znam jeszcze fachowej nazwy połowy rzeczy, które robię. Za to od lat mam niezdrową potrzebę sprawdzania, **„co się stanie, jeśli...”**.
 
-Stawiam przede wszystkim na praktyczną naukę: konfiguruję, testuję, psuję i naprawiam własny sprzęt, systemy oraz środowiska laboratoryjne.
+Większości rzeczy nauczyłem się metodą prób i błędów na własnym sprzęcie. Instalowałem, konfigurowałem, testowałem, psułem, naprawiałem, a czasami naprawiałem to, co zepsułem podczas naprawiania poprzedniej rzeczy.
+
+Windows, Linux, sieci, Android, Termux, cyberbezpieczeństwo, automatyzację i programowanie poznaję przede wszystkim od strony praktycznej. Gdy czegoś nie wiem, szukam, czytam dokumentację, wykorzystuję AI i eksperymentuję, dopóki nie zrozumiem, dlaczego coś działa albo dlaczego właśnie przestało działać.
+
+**Mój cykl rozwojowy:**  
+`pomysł → eksperyment → błąd → "o kurwa" → analiza → naprawa → działa → kolejny pomysł`
+
+Nie próbuję tutaj udawać senior developera ani eksperta cybersecurity. Ten GitHub dokumentuje drogę od **„ciekawe, czy się da”** do **„dobra, działa i wiem dlaczego”**.
+
+Rozwijam się przede wszystkim w kierunku cyberbezpieczeństwa, sieci, serwerów, automatyzacji i AI.
 
 ## Czym się zajmuję
 
-- Windows: diagnostyka, konfiguracja i rozwiązywanie problemów
-- Linux: nauka administracji, terminala i pracy z systemem
-- Sieci komputerowe: konfiguracja, diagnostyka i bezpieczeństwo
-- Cybersecurity: rozwijanie wiedzy teoretycznej i praktycznych umiejętności
-- OSINT: wyszukiwanie, analiza i weryfikacja informacji z otwartych źródeł
-- Termux: mobilne środowisko Linux i eksperymenty
-- Android: Android Studio, Kotlin i Jetpack Compose z wykorzystaniem AI
-- Python: nauka i tworzenie prostych narzędzi z pomocą AI
-- Git/GitHub: rozwijanie własnych projektów i nauka kontroli wersji
-- AI: wykorzystanie modeli AI do nauki, programowania, analizy i automatyzacji
+- **Windows**: diagnostyka, konfiguracja i rozwiązywanie problemów
+- **Linux**: administracja, terminal i eksperymenty z systemem
+- **Sieci komputerowe**: konfiguracja, diagnostyka i bezpieczeństwo
+- **Cybersecurity**: rozwijanie wiedzy teoretycznej i praktycznych umiejętności
+- **Informatyka śledcza**: poznawanie metod analizy systemów, plików i danych
+- **OSINT**: wyszukiwanie, analiza i weryfikacja informacji z otwartych źródeł
+- **Termux**: mobilne środowisko Linux, narzędzia i eksperymenty
+- **Android**: Android Studio, Kotlin i Jetpack Compose z wykorzystaniem AI
+- **Python**: nauka i tworzenie własnych narzędzi z pomocą AI
+- **Git / GitHub**: rozwijanie projektów i nauka kontroli wersji
+- **AI**: nauka, programowanie, analiza, diagnostyka i automatyzacja
 
 ## Jak się uczę
 
-Większość eksperymentów wykonuję na własnym sprzęcie i we własnych środowiskach.
+Nie interesuje mnie samo wykonanie instrukcji krok po kroku. Chcę wiedzieć, **co się dzieje pod spodem**, dlaczego dane rozwiązanie działa, gdzie może się zepsuć i jak można je naprawić lub zabezpieczyć.
 
-Interesuje mnie nie tylko to, czy coś działa, ale również dlaczego działa, gdzie może się zepsuć i jak można to zabezpieczyć.
-
-AI traktuję jako narzędzie wspierające naukę i budowanie projektów. Korzystam z niego również podczas nauki programowania, analizy kodu i rozwiązywania problemów technicznych.
+Większość eksperymentów wykonuję na własnym sprzęcie i we własnych środowiskach. AI traktuję jako narzędzie wspierające naukę, analizę problemów i budowanie projektów, a nie jako sposób na udawanie wiedzy, której jeszcze nie mam.
 
 ## Projekty
 
@@ -41,17 +49,23 @@ Rozwijany projekt aplikacji społecznościowej przeznaczonej dla mieszkańców K
 
 `Android` `Kotlin` `Jetpack Compose`
 
-Repozytoria projektów będą publikowane wraz z ich dalszym rozwojem.
+### Prestige Tech Tools
+
+Rozwijany zestaw własnych narzędzi do diagnostyki, administracji, sieci, automatyzacji i bezpieczeństwa.
+
+Planowane i rozwijane projekty obejmują między innymi narzędzia dla Windows, Androida, Termuxa, sieci komputerowych oraz diagnostyki bezpieczeństwa.
+
+Repozytoria będą publikowane wraz z rozwojem kolejnych projektów.
 
 ## Kierunek rozwoju
 
-Moim celem jest rozwijanie praktycznych kompetencji IT, zdobywanie certyfikatów mających realną wartość na rynku oraz budowanie doświadczenia przede wszystkim w obszarach:
+Moim celem jest rozwijanie praktycznych kompetencji IT, rozpoczęcie studiów, zdobywanie certyfikatów mających realną wartość na rynku oraz budowanie doświadczenia przede wszystkim w obszarach:
 
 `Cybersecurity` `Sieci` `Serwery` `Linux` `AI` `Automatyzacja`
 
-Długoterminowo rozwijam własną markę technologiczną **Prestige Tech** w Koszalinie.
+Nie chcę zamykać się w jednej technologii. Interesuje mnie miejsce, w którym infrastruktura, bezpieczeństwo, oprogramowanie i automatyzacja zaczynają działać jako jeden system.
 
-Chcę łączyć praktyczne IT, cyberbezpieczeństwo, infrastrukturę i nowe technologie oraz systematycznie budować coraz bardziej zaawansowane projekty.
+Długoterminowo rozwijam własną markę technologiczną **Prestige Tech** w Koszalinie.
 
 ## Kontakt
 
