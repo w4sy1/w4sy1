@@ -53,9 +53,14 @@ Rozwijany projekt aplikacji społecznościowej przeznaczonej dla mieszkańców K
 
 Rozwijany zestaw własnych narzędzi do diagnostyki, administracji, sieci, automatyzacji i bezpieczeństwa.
 
-Planowane i rozwijane projekty obejmują między innymi narzędzia dla Windows, Androida, Termuxa, sieci komputerowych oraz diagnostyki bezpieczeństwa.
+**Aktualne źródła:** [PRESTIGE TECH — 10 Centrów](https://github.com/w4sy1/prestige-tech#nowe-centra--kod-%C5%BAr%C3%B3d%C5%82owy) · [Tech Dashboard](https://github.com/w4sy1/prestige-tech-dashboard).
 
-Repozytoria będą publikowane wraz z rozwojem kolejnych projektów.
+W głównym repozytorium są nowe moduły sieci, monitoringu, rejestru, dysków,
+Androida, bezpieczeństwa, systemu, Termuxa, AI i raportów. Dashboard ma osobny
+kod źródłowy. [Macierz migracji](https://github.com/w4sy1/prestige-tech/blob/master/development/CENTER-MIGRATION-MATRIX.md)
+pokazuje, które funkcje przeniesiono i czego jeszcze brakuje. Starsze
+repozytoria `prestige-*` pozostają publiczną historią projektu; nie wszystkie
+ich funkcje mają już odpowiednik w Centrach.
 
 ## Kierunek rozwoju
 
