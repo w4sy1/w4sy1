@@ -7,10 +7,6 @@ Jestem samoukiem z Koszalina. Nie skończyłem informatyki, ale przygotowuję si
 Większości rzeczy nauczyłem się metodą prób i błędów na własnym sprzęcie. Instalowałem, konfigurowałem, testowałem, psułem, naprawiałem, a czasami naprawiałem to, co zepsułem podczas naprawiania poprzedniej rzeczy.
 
 Windows, Linux, sieci, Android, Termux, cyberbezpieczeństwo, automatyzację i programowanie poznaję przede wszystkim od strony praktycznej. Gdy czegoś nie wiem, szukam, czytam dokumentację, wykorzystuję AI i eksperymentuję, dopóki nie zrozumiem, dlaczego coś działa albo dlaczego właśnie przestało działać.
-
-**Mój cykl rozwojowy:**  
-`pomysł → eksperyment → błąd → "o kurwa" → analiza → naprawa → działa → kolejny pomysł`
-
 Nie próbuję tutaj udawać senior developera ani eksperta cybersecurity. Ten GitHub dokumentuje drogę od **„ciekawe, czy się da”** do **„dobra, działa i wiem dlaczego”**.
 
 Rozwijam się przede wszystkim w kierunku cyberbezpieczeństwa, sieci, serwerów, automatyzacji i AI.
