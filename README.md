@@ -37,13 +37,33 @@ Większość eksperymentów wykonuję na własnym sprzęcie i we własnych środ
 
 Projekt gry na Androida inspirowanej klasycznym Saperem z Windows XP.
 
+[Publiczne repozytorium](https://github.com/w4sy1/saperxp) zawiera politykę prywatności aplikacji, nie jej kod źródłowy.
+
 `Kotlin` `Jetpack Compose` `Android`
 
 ### Razem dla Koszalina
 
 Rozwijany projekt aplikacji społecznościowej przeznaczonej dla mieszkańców Koszalina.
 
+Kod aplikacji jest w [prywatnym repozytorium](https://github.com/w4sy1/razem-dla-koszalina). [Polityka prywatności](https://github.com/w4sy1/razem-dla-koszalina-privacy) jest publiczna.
+
 `Android` `Kotlin` `Jetpack Compose`
+
+### Polish Fighters
+
+[Gra i silnik OpenLF2](https://github.com/w4sy1/polish-fighters) rozwijane na Windows i Androida. Projekt obejmuje klasyczne i dotykowe sterowanie, dodatki oraz tryb sieciowy.
+
+`C++` `Lua` `Android` `Windows`
+
+### Brawl Coach
+
+[Nieoficjalny doradca Brawl Stars](https://github.com/w4sy1/brawl-coach) jako aplikacja webowa/PWA: dobór drużyny, draft, kolekcja i wyjaśnienia rekomendacji.
+
+`Web` `PWA` `TypeScript`
+
+### Prestige One
+
+[Repozytorium Prestige One](https://github.com/w4sy1/prestige-one) zostało utworzone dla projektu Android Prestige Home Care. Na razie nie zawiera kodu.
 
 ### Prestige Tech Tools
 
