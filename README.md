@@ -92,6 +92,6 @@ Długoterminowo rozwijam własną markę technologiczną **Prestige Tech** w Kos
 
 **Prestige Tech**
 
-E-mail: [prestigetech@gmail.com](mailto:prestigetech@gmail.com)
+E-mail: [prestigetechkoszalin@gmail.com](mailto:prestigetechkoszalin@gmail.com)
 
 Instagram: [@projekt.ocalenie](https://www.instagram.com/projekt.ocalenie/)
