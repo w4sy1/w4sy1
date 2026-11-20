@@ -33,6 +33,14 @@ Większość eksperymentów wykonuję na własnym sprzęcie i we własnych środ
 
 ## Projekty
 
+### [Polish Fighters](https://github.com/w4sy1/polish-fighters)
+
+Gra na Windows i Androida rozwijana na silniku OpenLF2. Ma tryb sieciowy, sterowanie dotykowe i menedżer dodatków.
+
+[Android i Windows — wydania gry](https://github.com/w4sy1/polish-fighters/releases) · [Katalog dodatków do gry](https://github.com/w4sy1/polish-fighters/releases/tag/mods)
+
+`C++` `Lua` `Android` `Windows`
+
 ### Saper XP
 
 Projekt gry na Androida inspirowanej klasycznym Saperem z Windows XP.
@@ -48,12 +56,6 @@ Rozwijany projekt aplikacji społecznościowej przeznaczonej dla mieszkańców K
 Kod aplikacji jest w [prywatnym repozytorium](https://github.com/w4sy1/razem-dla-koszalina). [Polityka prywatności](https://github.com/w4sy1/razem-dla-koszalina-privacy) jest publiczna.
 
 `Android` `Kotlin` `Jetpack Compose`
-
-### Polish Fighters
-
-[Gra i silnik OpenLF2](https://github.com/w4sy1/polish-fighters) rozwijane na Windows i Androida. Projekt obejmuje klasyczne i dotykowe sterowanie, dodatki oraz tryb sieciowy.
-
-`C++` `Lua` `Android` `Windows`
 
 ### Brawl Coach
 
